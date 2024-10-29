@@ -1,22 +1,13 @@
-### Hi there, I'm Abhi! 👋
-
-I'm a passionate tech enthusiast who loves diving deep into the world of programming and artificial intelligence. Constantly curious and eager to learn, I'm on a journey to explore new technologies and expand my knowledge base.
+### Hi there, I'm Abhi! hehehe MadaXABhi 👋
 
 ### 🔭 I'm interested in:
-- Technology
-- Programming
-- Artificial Intelligence
-- Web Development
+- Soch ke batata hu 
 
 ### 🌱 I’m currently learning:
-- Advanced algorithms
-- Machine learning techniques
-
-### 💼 I’m looking to collaborate on:
-- Open-source projects related to AI or web development
+- PCM Class 12th 🐍
 
 ### 📫 How to reach me:
-- No ways sorry.
+- No ways sorry. 
 
 ### ⚡ Fun fact:
-- I love exploring new coding languages and experimenting with different technologies!
+- Yaar yaha to kuch naa milne wala sad 🐍
