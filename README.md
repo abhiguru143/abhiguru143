@@ -9,18 +9,18 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ABhi...!;Hehe+MadXABhi...😇;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ABhi...!;Badshaxabhi...😇;" />
 </h1>
 
 
 ### 🔭 I'm interested in:
-- Soch ke batata hu 
+- chutiyapa...
 
 ### 🌱 I’m currently learning:
-- PCM Class 12th 🐍
+- Mujhe bhi nahi pata
 
 ### 📫 How to reach me:
-- No ways sorry. 
+- bhul jaaooo
 
 ### ⚡ Fun fact:
 - Yaar yaha to kuch naa milne wala sad 🐍
